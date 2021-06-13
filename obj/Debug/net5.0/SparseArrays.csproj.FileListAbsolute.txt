@@ -1,0 +1,16 @@
+C:\Users\amisa\Documents\JeffLeupold\Scratch\SparseArrays\bin\Debug\net5.0\SparseArrays.exe
+C:\Users\amisa\Documents\JeffLeupold\Scratch\SparseArrays\bin\Debug\net5.0\SparseArrays.deps.json
+C:\Users\amisa\Documents\JeffLeupold\Scratch\SparseArrays\bin\Debug\net5.0\SparseArrays.runtimeconfig.json
+C:\Users\amisa\Documents\JeffLeupold\Scratch\SparseArrays\bin\Debug\net5.0\SparseArrays.runtimeconfig.dev.json
+C:\Users\amisa\Documents\JeffLeupold\Scratch\SparseArrays\bin\Debug\net5.0\SparseArrays.dll
+C:\Users\amisa\Documents\JeffLeupold\Scratch\SparseArrays\bin\Debug\net5.0\ref\SparseArrays.dll
+C:\Users\amisa\Documents\JeffLeupold\Scratch\SparseArrays\bin\Debug\net5.0\SparseArrays.pdb
+C:\Users\amisa\Documents\JeffLeupold\Scratch\SparseArrays\obj\Debug\net5.0\SparseArrays.csprojAssemblyReference.cache
+C:\Users\amisa\Documents\JeffLeupold\Scratch\SparseArrays\obj\Debug\net5.0\SparseArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amisa\Documents\JeffLeupold\Scratch\SparseArrays\obj\Debug\net5.0\SparseArrays.AssemblyInfoInputs.cache
+C:\Users\amisa\Documents\JeffLeupold\Scratch\SparseArrays\obj\Debug\net5.0\SparseArrays.AssemblyInfo.cs
+C:\Users\amisa\Documents\JeffLeupold\Scratch\SparseArrays\obj\Debug\net5.0\SparseArrays.csproj.CoreCompileInputs.cache
+C:\Users\amisa\Documents\JeffLeupold\Scratch\SparseArrays\obj\Debug\net5.0\SparseArrays.dll
+C:\Users\amisa\Documents\JeffLeupold\Scratch\SparseArrays\obj\Debug\net5.0\ref\SparseArrays.dll
+C:\Users\amisa\Documents\JeffLeupold\Scratch\SparseArrays\obj\Debug\net5.0\SparseArrays.pdb
+C:\Users\amisa\Documents\JeffLeupold\Scratch\SparseArrays\obj\Debug\net5.0\SparseArrays.genruntimeconfig.cache
